@@ -8,7 +8,7 @@ Release:	5
 Summary:	Wrapper for Gmail accounts
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/~fays/GMail-Checker-1.04/Checker.pm
+Url:		https://search.cpan.org/~fays/GMail-Checker-1.04/Checker.pm
 Source0:	http://search.cpan.org/CPAN/authors/id/F/FA/FAYS/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
