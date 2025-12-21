@@ -11,6 +11,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/~fays/GMail-Checker-1.04/Checker.pm
 Source0:	http://search.cpan.org/CPAN/authors/id/F/FA/FAYS/%{upstream_name}-%{upstream_version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(IO::Socket::SSL)
 BuildArch:	noarch
