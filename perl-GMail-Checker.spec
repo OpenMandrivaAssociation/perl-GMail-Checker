@@ -1,15 +1,13 @@
 %define upstream_name	 GMail-Checker
-%define upstream_version 1.04
-
 Name:		perl-%{upstream_name}
-Version:	%{upstream_version}
-Release:	6
+Version:	1.04
+Release:	7
 
 Summary:	Wrapper for Gmail accounts
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		https://metacpan.org/dist/GMail-Checker
-Source0:	https://cpan.metacpan.org/authors/id/F/FA/FAYS/GMail-Checker-%{upstream_version}.tar.gz
+Source0:	https://cpan.metacpan.org/authors/id/F/FA/FAYS/GMail-Checker-%{version}.tar.gz
 
 BuildRequires:	make
 BuildRequires:	perl-devel
